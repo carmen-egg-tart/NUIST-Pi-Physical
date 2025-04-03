@@ -1,4 +1,4 @@
-# Author: [Your Name]
+# Author: [YuchenZhang]
 # Date: 2025-04-02
 # Description: A quiz game that interacts with LEDs on a Raspberry Pi using GPIO pins.
 
